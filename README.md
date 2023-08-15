@@ -10,7 +10,7 @@ Students are expected to:
 Student Info
 =======================
 
-* Name: *YourNameHere*
-* ID: *YourIdHere*
+* Name: Nguyễn Đắc Minh Khôi
+* ID: BI12-218
 * Group ID: *Your Group ID here*
 
