@@ -12,5 +12,5 @@ Student Info
 
 * Name: Nguyễn Đắc Minh Khôi
 * ID: BI12-218
-* Group ID: *Your Group ID here*
+* Group ID: 13
 
